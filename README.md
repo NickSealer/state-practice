@@ -6,6 +6,12 @@ Example themes inspired in Boostrap background option colors.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important elements to nav links:
+ - Install npm install react-router-dom
+ - routes folder
+ - [src/routes/Root.js](src/routes/Root.js) (Route tags structure)
+ - [src/routes/Layout.js](src/routes/Layout.js) (Navlinks - Outlet)
+
 ## Available Scripts
 
 In the project directory, you can run:

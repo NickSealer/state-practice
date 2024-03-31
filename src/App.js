@@ -1,10 +1,10 @@
 import './App.css';
-import { Main } from './components/Main';
+import { Root } from './routes/Root';
 
 function App() {
   return (
-    <div className="App">
-      <Main />
+    <div className="App" style={{ padding: '0px 30px' }}>
+      <Root />
     </div>
   );
 }
